@@ -1,0 +1,17 @@
+#profile-title: Base BN-Siberia VPN
+#profile-update-interval: 1
+#support-url: t.me/Ku6epMeH
+#profile-web-page-url: https://github.com/VPN-cat/VPN
+#announce: Конфигурации ВПН, для Базы Беларуснефть-Сибирь. Автор: Лапицкий И. С.
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.217:15443?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=i2YcjnuseVHbswqtr93cfTaDLb8G0ZPs2yIqeZffJWM&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%B7+France+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.217:33443?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.217:9443?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE+Finland+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@api.rodina-platform.online:2072?type=xhttp&security=reality&fp=firefox&sni=max.ru&pbk=Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs&sid=7016808acbb46323&path=%2F&host=max.ru&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#%F0%9F%87%AC%F0%9F%87%A7+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+%7C+%F0%9F%A5%AD%F0%9F%94%A7+max.ru
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.217:9443?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE+Finland+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.216:42006?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.216:42003?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=3VJ4p2VKO6fb9rsDFj8HCuTkspOWKwuSKjN5sU2e1Qk&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8+United+States+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.216:42005?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=8jSm3l2rscoT02YpYSbnsPdkMeipd4eow2MmpfQOen8&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.216:42002?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA+Germany+%5B*CIDR%5D
+vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.216:42007?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=HmKTXDpJw9amcZPyIFGKhGMcpGTwKdOWNMa12Q1dzj8&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%B7+France+%5B*CIDR%5D
