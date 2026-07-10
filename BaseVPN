@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/Ku6epMeH
 #profile-web-page-url: https://github.com/Ku6epMeH/Base-VPN/blob/main/BaseVPN
-#announce: Конфигурации ВПН | Для Базы Беларуснефть-Сибирь. Автор: Лапицкий И. С.
+#announce: Конфигурации ВПН | Для Базы БН-Сибирь. Автор: Л. И. С.
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@176.109.88.217:15443?type=grpc&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=i2YcjnuseVHbswqtr93cfTaDLb8G0ZPs2yIqeZffJWM&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%B7+France+%5B*CIDR%5D
